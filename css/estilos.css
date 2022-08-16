@@ -1,0 +1,10 @@
+body {
+   margin: 50px;
+   font-family: Tahoma, Geneva, Verdana, sans-serif;
+   background-color: whitesmoke;
+   text-align: center;
+}
+
+section {
+   padding: 10px;
+}
